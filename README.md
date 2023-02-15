@@ -1,2 +1,2 @@
 # hello-world
-This is application form.
+This is student application form.
